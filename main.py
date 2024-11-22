@@ -4,6 +4,8 @@ from game import FootballGame
 from team import Team
 from referee import Referee
 import random
+from players import PLAYER_NAMES
+
 
 def main():
     print("========================================")
